@@ -5,12 +5,12 @@ Nothing really to see here.
 * two
   * two b
 * three
-*aa
+* aa
 
 * bb
   1. bb1
   2. bb2
 
-*cc
+* cc
 
 Back to [README](README.md).
