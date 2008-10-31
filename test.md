@@ -3,12 +3,14 @@ Nothing really to see here.
 
 * one
 * two
-** two b
+  * two b
 * three
-*# aa
-*# bb
-*## bb1
-*## bb2
-*# cc
+*aa
+
+* bb
+  1. bb1
+  2. bb2
+
+*cc
 
 Back to [README](README.md).
